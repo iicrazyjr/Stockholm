@@ -9,5 +9,12 @@ git clone https://github.com/iicrazyjr/Stockholm.git
 
 # Usage
 ```bash
-python3 stockholm.py -h # Show the available options
+# Encrypt all files in the "infected" directory
+python3 stockholm.py
+
+# Reverse the encryption
+python3 stockholm.py -r
+
+# Display the current program version
+python3 stockholm.py -v
 ```
