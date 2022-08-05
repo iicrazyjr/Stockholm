@@ -1,2 +1,2 @@
 # Stockholm
-Encrypt all 
+Encrypt all your files in the "infected directory"
