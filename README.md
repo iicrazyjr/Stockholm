@@ -1,5 +1,5 @@
 # Stockholm
-Encrypt all your files in the "infected" directory
+Encrypt all your files in the "infected" directory using the Fernet python library
 
 # Installation
 You can install it using the git command
