@@ -17,4 +17,7 @@ python3 stockholm.py -r
 
 # Display the current program version
 python3 stockholm.py -v
+
+# Silent the output files
+python3 stockhom.py -s
 ```
